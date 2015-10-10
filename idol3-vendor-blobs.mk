@@ -649,6 +649,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
+    vendor/tcl/idol3/proprietary/bin/powerup_reason:system/bin/powerup_reason \
     vendor/tcl/idol3/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/tcl/idol3/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libdsi_netctrl.so:system/vendor/lib64/libdsi_netctrl.so \
@@ -721,6 +722,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/tcl/idol3/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/tcl/idol3/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/tcl/idol3/proprietary/bin/tctd:system/bin/tctd \
     vendor/tcl/idol3/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/tcl/idol3/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
