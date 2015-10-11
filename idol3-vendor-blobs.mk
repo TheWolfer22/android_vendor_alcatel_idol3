@@ -699,7 +699,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
-    vendor/tcl/idol3/proprietary/vendor/lib/hw/sound_trigger.primary.msm8916.so:system/vendor/lib/hw/sound_trigger.primary.msm8916.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
