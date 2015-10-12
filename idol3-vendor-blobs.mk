@@ -533,7 +533,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/tcl/idol3/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
     vendor/tcl/idol3/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/tcl/idol3/proprietary/vendor/lib64/drm/libdrmwvmplugin.so:system/vendor/lib64/drm/libdrmwvmplugin.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libdrmdecrypt.so:system/vendor/lib64/libdrmdecrypt.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libdrmfs.so:system/vendor/lib64/libdrmfs.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libdrmtime.so:system/vendor/lib64/libdrmtime.so \
