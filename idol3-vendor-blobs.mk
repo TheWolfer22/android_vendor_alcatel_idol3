@@ -691,7 +691,9 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/tcl/idol3/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/tcl/idol3/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/tcl/idol3/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/tcl/idol3/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
+    vendor/tcl/idol3/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/tcl/idol3/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
