@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/vendor/lib64/libadsprpc.so:system/vendor/lib64/libadsprpc.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
+    vendor/tcl/idol3/proprietary/bin/tfa9897:system/bin/tfa9897 \
     vendor/tcl/idol3/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/tcl/idol3/proprietary/etc/acdbdata/MTP/MTP_General_cal.acdb:system/etc/acdbdata/MTP/MTP_General_cal.acdb \
     vendor/tcl/idol3/proprietary/etc/acdbdata/MTP/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/MTP_Global_cal.acdb \
@@ -548,6 +549,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/tcl/idol3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/tcl/idol3/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/tcl/idol3/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/tcl/idol3/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
     vendor/tcl/idol3/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
@@ -619,6 +621,8 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/idol3/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/tcl/idol3/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
     vendor/tcl/idol3/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
+    vendor/tcl/idol3/proprietary/bin/hdcpService:system/bin/hdcpService \
+    vendor/tcl/idol3/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libDivxDrm.so:system/vendor/lib64/libDivxDrm.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libExtendedExtractor.so:system/vendor/lib64/libExtendedExtractor.so \
     vendor/tcl/idol3/proprietary/vendor/lib64/libmmosal.so:system/vendor/lib64/libmmosal.so \
