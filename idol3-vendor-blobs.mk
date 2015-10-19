@@ -642,6 +642,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Unsigned_configdata.ncd:system/vendor/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Unsigned_configdata.ncd \
     vendor/alcatel/idol3/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/alcatel/idol3/proprietary/bin/perfd:system/bin/perfd \
+    vendor/alcatel/idol3/proprietary/bin/power_engine:system/bin/power_engine \
     vendor/alcatel/idol3/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libqti-perfd-client.so:system/vendor/lib64/libqti-perfd-client.so \
     vendor/alcatel/idol3/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
