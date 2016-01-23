@@ -665,9 +665,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/alcatel/idol3/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/alcatel/idol3/proprietary/lib64/libril.so:system/lib64/libril.so \
-    vendor/alcatel/idol3/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/alcatel/idol3/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/alcatel/idol3/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmdmdetect.so:system/vendor/lib64/libmdmdetect.so \
