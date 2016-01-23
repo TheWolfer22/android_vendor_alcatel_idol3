@@ -619,7 +619,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/alcatel/idol3/proprietary/vendor/firmware/BCM20795A2_001.003.025.0005.0043_Generic_I2C_NCD_Unsigned_configdata.ncd:system/vendor/firmware/BCM20795A2_001.003.025.0005.0043_Generic_I2C_NCD_Unsigned_configdata.ncd \
     vendor/alcatel/idol3/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
-    vendor/alcatel/idol3/proprietary/bin/perfd:system/bin/perfd \
+    vendor/alcatel/idol3/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libqti-perfd-client.so:system/vendor/lib64/libqti-perfd-client.so \
     vendor/alcatel/idol3/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdisp-aba.so:system/vendor/lib64/libdisp-aba.so \
@@ -699,7 +699,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/alcatel/idol3/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/alcatel/idol3/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/alcatel/idol3/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/alcatel/idol3/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
