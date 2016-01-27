@@ -621,8 +621,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/alcatel/idol3/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
     vendor/alcatel/idol3/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
-    vendor/alcatel/idol3/proprietary/bin/hdcpService:system/bin/hdcpService \
-    vendor/alcatel/idol3/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libDivxDrm.so:system/vendor/lib64/libDivxDrm.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libExtendedExtractor.so:system/vendor/lib64/libExtendedExtractor.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmmosal.so:system/vendor/lib64/libmmosal.so \
