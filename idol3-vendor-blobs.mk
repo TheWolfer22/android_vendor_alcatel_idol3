@@ -726,7 +726,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/alcatel/idol3/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/alcatel/idol3/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/alcatel/idol3/proprietary/bin/tctd:system/bin/tctd \
     vendor/alcatel/idol3/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
