@@ -650,6 +650,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/alcatel/idol3/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/alcatel/idol3/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdsi_netctrl.so:system/vendor/lib64/libdsi_netctrl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdsutils.so:system/vendor/lib64/libdsutils.so \
