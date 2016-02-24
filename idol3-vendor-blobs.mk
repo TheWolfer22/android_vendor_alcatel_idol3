@@ -69,6 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmmcamera_ov8858_q8v19w.so:system/vendor/lib64/libmmcamera_ov8858_q8v19w.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmmcamera_ov8858.so:system/vendor/lib64/libmmcamera_ov8858.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmmcamera_s5k3m2_idol3.so:system/vendor/lib64/libmmcamera_s5k3m2_idol3.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib64/libmmcamera_s5k4h5yc_idol3_eyeverify.so:system/vendor/lib64/libmmcamera_s5k4h5yc_idol3_eyeverify.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmmcamera_s5k4h5yc_idol3.so:system/vendor/lib64/libmmcamera_s5k4h5yc_idol3.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
@@ -122,6 +123,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmmcamera_s5k3m2_idol3_eeprom.so:system/vendor/lib/libmmcamera_s5k3m2_idol3_eeprom.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmmcamera_s5k3m2_idol3.so:system/vendor/lib/libmmcamera_s5k3m2_idol3.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmmcamera_S5K4E1_13P1BA.so:system/vendor/lib/libmmcamera_S5K4E1_13P1BA.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/libmmcamera_s5k4h5yc_idol3_eyeverify.so:system/vendor/lib/libmmcamera_s5k4h5yc_idol3_eyeverify.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmmcamera_s5k4h5yc_idol3.so:system/vendor/lib/libmmcamera_s5k4h5yc_idol3.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so:system/vendor/lib/libmmcamera_SKUAA_ST_gc0339.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so:system/vendor/lib/libmmcamera_skuab_shinetech_gc0339.so \
@@ -272,6 +274,11 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k3m2_idol3_snapshot.so:system/vendor/lib64/libchromatix_s5k3m2_idol3_snapshot.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_common.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_common.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_default_video.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_default_video.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_common.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_common.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_default_video.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_default_video.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_preview.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_preview.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_snapshot.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_snapshot.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_zsl.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_eyeverify_zsl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_preview.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_preview.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_snapshot.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_snapshot.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libchromatix_s5k4h5yc_idol3_zsl.so:system/vendor/lib64/libchromatix_s5k4h5yc_idol3_zsl.so \
@@ -474,6 +481,11 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so:system/vendor/lib/libchromatix_S5K4E1_13P1BA_zsl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_common.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_common.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_default_video.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_default_video.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_common.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_common.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_default_video.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_default_video.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_preview.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_preview.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_snapshot.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_snapshot.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_zsl.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_eyeverify_zsl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_preview.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_preview.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_snapshot.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_snapshot.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libchromatix_s5k4h5yc_idol3_zsl.so:system/vendor/lib/libchromatix_s5k4h5yc_idol3_zsl.so \
@@ -617,7 +629,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
-    vendor/alcatel/idol3/proprietary/vendor/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Unsigned_configdata.ncd:system/vendor/firmware/BCM20795A2_001.003.025.0005.0035_Generic_I2C_NCD_Unsigned_configdata.ncd \
+    vendor/alcatel/idol3/proprietary/vendor/firmware/BCM20795A2_001.003.025.0005.0043_Generic_I2C_NCD_Unsigned_configdata.ncd:system/vendor/firmware/BCM20795A2_001.003.025.0005.0043_Generic_I2C_NCD_Unsigned_configdata.ncd \
     vendor/alcatel/idol3/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/alcatel/idol3/proprietary/bin/perfd:system/bin/perfd \
     vendor/alcatel/idol3/proprietary/bin/power_engine:system/bin/power_engine \
