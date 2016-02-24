@@ -18,26 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libadsprpc.so:system/vendor/lib64/libadsprpc.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
-    vendor/alcatel/idol3/proprietary/bin/tfa9897:system/bin/tfa9897 \
-    vendor/alcatel/idol3/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
-    vendor/alcatel/idol3/proprietary/etc/acdbdata/MTP/MTP_General_cal.acdb:system/etc/acdbdata/MTP/MTP_General_cal.acdb \
-    vendor/alcatel/idol3/proprietary/etc/acdbdata/MTP/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/MTP_Global_cal.acdb \
-    vendor/alcatel/idol3/proprietary/etc/acdbdata/MTP/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/MTP_Handset_cal.acdb \
-    vendor/alcatel/idol3/proprietary/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb \
-    vendor/alcatel/idol3/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
-    vendor/alcatel/idol3/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/AAC/seltech_bottom.cnt:system/etc/tfa9897/AAC/seltech_bottom.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/AAC/seltech_stereo.cnt:system/etc/tfa9897/AAC/seltech_stereo.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/AAC/seltech_top.cnt:system/etc/tfa9897/AAC/seltech_top.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/LC/seltech_bottom.cnt:system/etc/tfa9897/LC/seltech_bottom.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/LC/seltech_stereo.cnt:system/etc/tfa9897/LC/seltech_stereo.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/LC/seltech_top.cnt:system/etc/tfa9897/LC/seltech_top.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_bottom.cnt:system/etc/tfa9897/seltech_bottom.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_bottom.ini:system/etc/tfa9897/seltech_bottom.ini \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_stereo.cnt:system/etc/tfa9897/seltech_stereo.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_stereo.cnt:system/etc/tfa9897/seltech_stereo.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_top.cnt:system/etc/tfa9897/seltech_top.cnt \
-    vendor/alcatel/idol3/proprietary/etc/tfa9897/seltech_top.ini:system/etc/tfa9897/seltech_top.ini \
     vendor/alcatel/idol3/proprietary/lib64/hw/audio.primary.msm8916.so:system/lib64/hw/audio.primary.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib64/libtfa9897.so:system/lib64/libtfa9897.so \
     vendor/alcatel/idol3/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
