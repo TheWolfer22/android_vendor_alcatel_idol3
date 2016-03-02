@@ -543,18 +543,10 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/alcatel/idol3/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/alcatel/idol3/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
-    vendor/alcatel/idol3/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
-    vendor/alcatel/idol3/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/alcatel/idol3/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
-    vendor/alcatel/idol3/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
     vendor/alcatel/idol3/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
-    vendor/alcatel/idol3/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
-    vendor/alcatel/idol3/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/alcatel/idol3/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/alcatel/idol3/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/alcatel/idol3/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/alcatel/idol3/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/alcatel/idol3/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libgeofence.so:system/vendor/lib64/libgeofence.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libizat_core.so:system/vendor/lib64/libizat_core.so \
