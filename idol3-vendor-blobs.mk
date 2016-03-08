@@ -44,7 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libbtnv.so:system/vendor/lib64/libbtnv.so \
     vendor/alcatel/idol3/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/alcatel/idol3/proprietary/lib64/libchromatix_imx135_liveshot.so:system/lib64/libchromatix_imx135_liveshot.so \
-    vendor/alcatel/idol3/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
+    vendor/alcatel/idol3/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/alcatel/idol3/proprietary/lib/libarcsoft_beauty_shot.so:system/lib/libarcsoft_beauty_shot.so \
     vendor/alcatel/idol3/proprietary/lib/libarcsoft_flf_engine.so:system/lib/libarcsoft_flf_engine.so \
     vendor/alcatel/idol3/proprietary/lib/libarcsoft_night_shot.so:system/lib/libarcsoft_night_shot.so \
