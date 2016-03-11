@@ -526,21 +526,17 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/alcatel/idol3/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
     vendor/alcatel/idol3/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/alcatel/idol3/proprietary/vendor/lib64/libdrmdecrypt.so:system/vendor/lib64/libdrmdecrypt.so \
+    vendor/alcatel/idol3/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdrmfs.so:system/vendor/lib64/libdrmfs.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdrmtime.so:system/vendor/lib64/libdrmtime.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libQSEEComAPI.so:system/vendor/lib64/libQSEEComAPI.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/librpmb.so:system/vendor/lib64/librpmb.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/librpmb.so:system/vendor/lib/librpmb.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/alcatel/idol3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/alcatel/idol3/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/alcatel/idol3/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/alcatel/idol3/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/alcatel/idol3/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
@@ -624,18 +620,11 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/idol3/proprietary/vendor/firmware/BCM20795A2_001.003.025.0005.0043_Generic_I2C_NCD_Unsigned_configdata.ncd:system/vendor/firmware/BCM20795A2_001.003.025.0005.0043_Generic_I2C_NCD_Unsigned_configdata.ncd \
     vendor/alcatel/idol3/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/alcatel/idol3/proprietary/bin/perfd:system/bin/perfd \
-    vendor/alcatel/idol3/proprietary/bin/power_engine:system/bin/power_engine \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libqti-perfd-client.so:system/vendor/lib64/libqti-perfd-client.so \
     vendor/alcatel/idol3/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdisp-aba.so:system/vendor/lib64/libdisp-aba.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmm-abl.so:system/vendor/lib64/libmm-abl.so \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libmm-abl-oem.so:system/vendor/lib64/libmm-abl-oem.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib64/libmm-qdcm.so:system/vendor/lib64/libmm-qdcm.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
-    vendor/alcatel/idol3/proprietary/vendor/lib/libmm-qdcm.so:system/vendor/lib/libmm-qdcm.so \
     vendor/alcatel/idol3/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/alcatel/idol3/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/alcatel/idol3/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
